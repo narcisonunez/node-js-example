@@ -1,6 +1,6 @@
 # node-js-example
 
-Minimal Node.js + Express app used as a demo/test project for Dokploy deployments. t
+Minimal Node.js + Express app used as a demo/test project for Dokploy deployments.
 
 ## Run locally
 
