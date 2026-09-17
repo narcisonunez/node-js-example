@@ -9,7 +9,7 @@ app.get("/", (_req, res) => {
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Test project for dokploy</title>
+<title>Test project for dokploy Staging</title>
 <style>
 	:root {
 		color-scheme: light dark;
@@ -65,7 +65,7 @@ app.get("/", (_req, res) => {
 <body>
 	<div class="card">
 		<span class="badge">● Running</span>
-		<h1>Test project for dokploy</h1>
+		<h1>Test project for dokploy - Staging</h1>
 		<p>Deployed straight from a plain Node.js + Dockerfile setup.</p>
 	</div>
 </body>
